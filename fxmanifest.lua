@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Syno'
+author 'Omajdos'
 
 client_scripts {'client/*.lua'}
 
